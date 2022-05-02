@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Ana Julia Rosa de Oliveira
+
+### Sobre mim
+Meu nome é Ana Julia, sou estudante e também trabalho com confecção de roupas.Meu objetivo com esse portfólio é aprender um pouco do funcionamento do Github.
 
 You can use the [editor on GitHub](https://github.com/anajuliarosa/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
