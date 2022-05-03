@@ -12,6 +12,8 @@ Informática, design e marketing.
 ### Hobbies 
 Desenhar e correr.
 
+[Facebook] (www..instagram.com/_s2anah)
+
 You can use the [editor on GitHub](https://github.com/anajuliarosa/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
