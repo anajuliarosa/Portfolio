@@ -12,7 +12,7 @@ Informática, design e marketing.
 ### Hobbies 
 Desenhar e correr.
 
-[Facebook] (www..instagram.com/_s2anah)
+[Facebook] (https//www.instagram.com/_s2anah)
 
 
 
